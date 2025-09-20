@@ -3,7 +3,7 @@ This repository contains code, and models developed for the study and classifica
 
 ---
 
-## 🔬 Project Overview
+## Project Overview
 
 Vascular dementia is one of the most common causes of cognitive decline after Alzheimer’s disease.  
 The goal of this project is to:
