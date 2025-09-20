@@ -1,5 +1,5 @@
 # Vascular-Dementia-Alzeimer-Detection-System
-This repository contains code, datasets (metadata + imaging), and models developed for the study and classification of **Vascular Dementia (VaD)**. The project integrates **clinical, demographic, cognitive, and behavioral patient metadata** with **DICOM neuroimaging data** to build and evaluate machine learning and deep learning models for improved diagnosis and analysis.
+This repository contains code, and models developed for the study and classification of **Vascular Dementia (VaD)**. The project integrates **clinical, demographic, cognitive, and behavioral patient metadata** with **DICOM neuroimaging data** to build and evaluate machine learning and deep learning models for improved diagnosis and analysis.
 
 ---
 
